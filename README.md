@@ -4,7 +4,7 @@ Jika Anda tertarik untuk menjadi Volunter, silakan lakukan PR(pull-request) pada
 Silakan gunakan format berikut:
 
 **\* Nama, [LinkedIn/GitHub/Website](Alamat URL).**  
-_Catatan: Pastikan sesuai dengan urutan yang ada._
+_Catatan: Pastikan sesuai dengan urutan yang ada._.
 
 Berikut daftar Volunter yang diterima:
 ### A
